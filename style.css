@@ -1,0 +1,32 @@
+.copy_right_footer {
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   text-align: center; 
+}
+center {
+    background-color: blanchedalmond;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+h4 {
+    font-weight: bold;
+    font-style: italic;
+}
+#camera {
+width: 500px;
+height: 300px;
+border-color: burlywood;
+border-width: 20px;
+}
+img {
+border-width: 100px;
+border-color:chocolate ;
+margin-bottom: 20px;
+box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+img:hover{
+    border-radius: 140px;
+}
